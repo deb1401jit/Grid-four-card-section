@@ -254,7 +254,7 @@ main {
   width: 57px;
 }
 
-@media (min-width: 421px) {
+@media (min-width: 480px) {
 
   .about-site-container {
     max-width: 35%;
@@ -323,7 +323,7 @@ main {
   color: hsl(229, 6%, 66%);
 }
 
-@media (min-width: 421px) {
+@media (min-width: 480px) {
   .about-site-container > .title {
     font-size: 2rem;
   }
